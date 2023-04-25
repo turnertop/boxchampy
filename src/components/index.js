@@ -1,8 +1,9 @@
-import TestExport from './testExport.jsx';
+import Hero from './Hero.jsx';
+
+
 
 export {
-  TestExport,
-
+  Hero
 
 };
 

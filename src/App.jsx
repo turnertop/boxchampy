@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import { TestExport } from './components';
+import { Hero } from './components';
 
 function App() {
 
   return (
     <div className="App">
-      <TestExport />
+      <Hero />
     </div>
   )
 }
