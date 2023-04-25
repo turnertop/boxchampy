@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Hero } from './components';
+import { Hero, InfoSection, Footer } from './components';
 
 function App() {
 
