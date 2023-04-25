@@ -6,6 +6,8 @@ Vite, React, TailwindCSS, ChakraUI
 
 ```javascript
 
+npm install
+
 npm run dev
 
 ```
