@@ -1,0 +1,19 @@
+/* This CSS exists for the logo styling */
+.w-boxchampy {
+  width: 154px;
+  height: 29px;
+}
+
+.font-boxchampy {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 90%;
+  /* identical to box height, or 29px */
+  text-transform: uppercase;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
